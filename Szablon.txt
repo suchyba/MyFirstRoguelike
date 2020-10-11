@@ -1,0 +1,29 @@
+Poziom: <liczba>
+Rozmiar: <liczba> <liczba>
+Obiekty: <liczba_obiektow>
+Numer: 0			//pole startowe
+Znak: <znak>
+Typ: <liczba>			//pole koñcowe
+Numer: 1
+Znak: <znak>
+Typ: <liczba>
+Numer: <liczba>			//pierwszy (2)
+Znak: <znak>
+Typ: <liczba>
+Numer: <liczba>			//drugi (3)
+Znak: <znak>
+Typ: <liczba>
+...
+Numer: <liczba>			//n-ty (n+1)
+Znak: <znak>
+Typ: <liczba>
+WarstwaI:
+<liczba> <liczba> ... <liczba>
+<liczba> <liczba> ... <liczba>
+	     ...
+<liczba> <liczba> ... <liczba>
+WarstwaII:
+<liczba> <liczba> ... <liczba>
+<liczba> <liczba> ... <liczba>
+	     ...
+<liczba> <liczba> ... <liczba>

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1548282153 source:d:\programowanie\najnowsze projekty\c\projekprogramowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"obslugaMapy.h"
+	"obslugaPlikow.h"
+	"obslugaWynikow.h"
+
+1548019177 d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugamapy.h
+
+1548279773 d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugaplikow.h
+	"obslugaMapy.h"
+
+1548019162 source:d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugamapy.c
+	"obslugaMapy.h"
+	<stdlib.h>
+	<stdio.h>
+
+1548017043 source:d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugaplikow.c
+	<stdio.h>
+	<dirent.h>
+	<string.h>
+	<stdlib.h>
+	"obslugaPlikow.h"
+	"obslugaMapy.h"
+
+1548191026 d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugawynikow.h
+
+1548200912 source:d:\programowanie\najnowsze projekty\c\projekprogramowanie\obslugawynikow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"obslugaWynikow.h"
+

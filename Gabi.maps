@@ -1,0 +1,66 @@
+Poziom: 1
+Rozmiar: 5 5
+Obiekty: 6
+Numer: 0
+Znak: 37
+Typ: 4
+Numer: 1
+Znak: 48
+Typ: 5
+Numer: 2
+Znak: 35
+Typ: 1
+Numer: 3
+Znak: 177
+Typ: 0
+Numer: 4
+Znak: 219
+Typ: 4
+Numer: 5
+Znak: 251
+Typ: 1
+WarstwaI:
+5 3 3 0 2
+3 3 2 2 2
+3 3 4 1 2
+3 3 2 3 2
+5 3 3 3 2
+WarstwaII:
+3 3 3 0 2
+3 3 2 2 2
+3 3 2 1 2
+3 3 2 3 2
+3 3 3 3 2
+Poziom: 2
+Rozmiar: 5 5
+Obiekty: 6
+Numer: 0
+Znak: 37
+Typ: 4
+Numer: 1
+Znak: 48
+Typ: 5
+Numer: 2
+Znak: 91
+Typ: 1
+Numer: 3
+Znak: 177
+Typ: 0
+Numer: 4
+Znak: 219
+Typ: 4
+Numer: 5
+Znak: 233
+Typ: 1
+WarstwaI:
+5 3 3 0 2
+3 3 2 2 2
+3 3 4 1 2
+3 3 2 3 2
+5 3 3 3 2
+WarstwaII:
+3 3 3 0 2
+3 3 2 2 2
+3 3 2 1 2
+3 3 2 3 2
+3 3 3 3 2
